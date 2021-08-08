@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-plus-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenkins-Plus/jenkins-plus-doc.git"
+  },
+  "keywords": [
+    "jenkins-plus-doc"
+  ],
+  "author": "pzsoftchen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jenkins-Plus/jenkins-plus-doc/issues"
+  },
+  "homepage": "https://github.com/Jenkins-Plus/jenkins-plus-doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
