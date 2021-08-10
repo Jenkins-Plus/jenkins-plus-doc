@@ -19,7 +19,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('step4') {
       steps {
         sh 'echo "step4"'
       }
